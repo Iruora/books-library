@@ -1,0 +1,10 @@
+{
+  "name": "Oracle",
+  "connector": "oracle",
+  "tns": "",
+  "host": "127.0.0.1",
+  "port": 1521,
+  "user": "SYSTEM",
+  "password": "root",
+  "database": "XE"
+}
